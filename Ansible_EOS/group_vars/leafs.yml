@@ -1,0 +1,12 @@
+---
+global_vlans:
+  - id: 10
+    name: DMZ-new
+  - id: 20
+    name: Internal-new
+  - id: 30
+    name: Sales-new
+  - id: 40
+    name: QA-new
+  - id: 50
+    name: Guest-new
